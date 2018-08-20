@@ -1,0 +1,13 @@
+body {
+    background-image: url('../images/background.jpg');
+    color: white;
+}
+
+.twitter-timeline {
+    height: 100vh;
+}
+
+.portfolio-item {
+    margin-top: 10vh;
+}
+
