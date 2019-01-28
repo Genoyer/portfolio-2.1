@@ -10,3 +10,15 @@ body {
 .portfolio-item {
     margin-top: 5vh;
 }
+
+.navbar {
+    background-color: transparent;
+}
+
+a {
+    color: white;
+}
+
+.navbar-collapse {
+    color: white;
+}

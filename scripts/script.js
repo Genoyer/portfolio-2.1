@@ -6,7 +6,7 @@ $(document).ready(function() {
         userId: '500078569',
         limit: 20,
         resolution: 'standard_resolution',
-        accessToken: '500078569.1677ed0.5da03c81dd954075bd6e2fd91ce69e0b',
+        accessToken: '500078569.1f8b93f.ed14d043affa464297e989d3a288f140',
         sortBy: 'most-commented',
         template: '<div class="col"><a href="{{image}}" title="{{caption}}" target="_blank"><img src="{{image}}" alt="{{caption}}" class="img-fluid"/></a></div>',
     });
